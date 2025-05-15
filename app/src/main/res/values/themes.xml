@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Taskmanager" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme colors here -->
+    </style>
+
+    <style name="Theme.Taskmanager" parent="Base.Theme.Taskmanager" />
+</resources>
